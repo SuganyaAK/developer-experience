@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontributor_beginner=self.webpackChunkcontributor_beginner||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/developer-experience/contributor-beginner/blog","blogTitle":"Blog","authorsListPath":"/developer-experience/contributor-beginner/blog/authors"}')}}]);
